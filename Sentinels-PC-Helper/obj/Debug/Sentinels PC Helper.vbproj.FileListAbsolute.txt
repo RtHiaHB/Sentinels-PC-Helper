@@ -1,0 +1,37 @@
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.exe.config
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.exe
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.pdb
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.xml
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels_PC_Helper.Form1.resources
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels_PC_Helper.Resources.resources
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.vbproj.GenerateResource.cache
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.vbproj.CoreCompileInputs.cache
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.exe
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.xml
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.pdb
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.vbprojAssemblyReference.cache
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels_PC_Helper.Boosts_Selector.resources
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels_PC_Helper.NewTalent.resources
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.exe.manifest
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.application
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.exe.manifest
+C:\Users\tomd1\source\repos\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.application
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.exe.config
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.exe.manifest
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.application
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.exe
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.pdb
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\bin\Debug\Sentinels PC Helper.xml
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels_PC_Helper.Boosts_Selector.resources
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels_PC_Helper.Form1.resources
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels_PC_Helper.Resources.resources
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels_PC_Helper.NewTalent.resources
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.vbproj.GenerateResource.cache
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.vbproj.CoreCompileInputs.cache
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.exe.manifest
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.application
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.exe
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.xml
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.pdb
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.vbproj.AssemblyReference.cache
+C:\Users\tomd1\OneDrive\Documents\Visual Studio 2017\Backup Files\Sentinels PC Helper\Sentinels PC Helper\obj\Debug\Sentinels PC Helper.vbproj.SuggestedBindingRedirects.cache

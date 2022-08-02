@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Sentinels PC Helper.exe" version="1.0.0.3" publicKeyToken="b8e2afa2920c717e" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="sentinel_comics_logo_bYP_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sentinels PC Helper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Sentinels PC Helper.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sentinels PC Helper.exe" size="441824">
+      <assemblyIdentity name="Sentinels PC Helper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>YzEgQYyUEpht39Dpu+lusfbaoF6qWbqwspSyHtvzfmc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="sentinel_comics_logo_bYP_icon.ico" size="192445">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>K5s0qoBkQ0GQWbuMYUyCDwzIZYEILP3XIIS5jB0tVCk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Sentinels PC Helper.exe.config" size="188">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c922zfRb5ORzqEo8SDjt8Mx8lDMhGTWhqKcK/oileDM=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-6C2Q966\tomd1" issuerKeyHash="4875a33e18c44af52301ab056747d10ab67918fb" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gcS8jZSq9prE3ZE7BBaxlCMCMPbUjqtgwJiZ78uEtk8=</DigestValue></Reference></SignedInfo><SignatureValue>f943eHZP6LD6AM1KnmXvaOd1cGGTL1X104AQIYQt2HK0W37B9+qb4mTjH5Vs+1yy1y9YEew3b1/QfpbYVOQvcbyVCWQVoItw00l1vEfFXY34m8Q8IJ8OT9rnS3pRZN0A+Wj0i3HE+wpkj4eW33Wu/hc4DxZxwJXmKJT9inS9Jv8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>x+JJnRNPJBYbedjdbdjvcSQGesmMC8i5ENTB7q9NfnDcQznYQCCoo9b5vJ8QSp0FNBjFBQomYvjGPHX2NLIHlJvThkdTcDo4SpIa2+vexSL/LIKLGqIqwSnQ8MmKkcUtIR9oggpuJW/OeXdvfqYFEqki+tHx4VME7jkrHko2MX0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4fb684cbef9998c060ab8ed4f630022394b116043b91ddc49af6aa948dbcc481" Description="" Url=""><as:assemblyIdentity name="Sentinels PC Helper.exe" version="1.0.0.3" publicKeyToken="b8e2afa2920c717e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-6C2Q966\tomd1</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>cY2nFEXvBsIlPkuARMkZZBg3AtfWexFg/wiTCG9GvyM=</DigestValue></Reference></SignedInfo><SignatureValue>vQFEROq8+SYNyGHGsF9LoWa0YLJ2bNJS60qRxdjdPrR3pu0KpmU8DiEdESUXLFloUAUY7xzmWhD2wyfWVCtZ0B3zAn1xfoTfFwCvK5Xh5utLs9dHxhb1g7m2kmwh+9FscNwpYIi9RCbQ751Fh8Hvy2L9B9kLdne6Ww5Q+O6MpG4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>x+JJnRNPJBYbedjdbdjvcSQGesmMC8i5ENTB7q9NfnDcQznYQCCoo9b5vJ8QSp0FNBjFBQomYvjGPHX2NLIHlJvThkdTcDo4SpIa2+vexSL/LIKLGqIqwSnQ8MmKkcUtIR9oggpuJW/OeXdvfqYFEqki+tHx4VME7jkrHko2MX0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQJqZu/U8ohatDdMTnIpEzVTANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADYAQwAyAFEAOQA2ADYAXAB0AG8AbQBkADEwHhcNMTgxMDA3MTgyMDIzWhcNMTkxMDA4MDAyMDIzWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADYAQwAyAFEAOQA2ADYAXAB0AG8AbQBkADEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMfiSZ0TTyQWG3nY3W3Y73EkBnrJjAvIuRDUwe6vTX5w3EM52EAgqKPW+byfEEqdBTQYxQUKJmL4xjx19jSyB5Sb04ZHU3A6OEqSGtvr3sUi/yyCixqiKsEp0PDJipHFLSEfaIIKbiVvznl3b36mBRKpIvrR8eFTBO45Kx5KNjF9AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAX4YfCfK5XI824nGJviW+xwJ6SS9MREtyxOktolMdQ4bqRLrzprAowsTxudUj7zE+Mvw31oap0logpvtX6hnje+TD2kXTuDj6Vm1Ni4vTpCVoihn5Q9b9LWC478CK+FZCUiUivNas+LNLGtxChycOKO9RCZayKUsz9wdG1eyPHyQ=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
